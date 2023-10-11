@@ -1,0 +1,62 @@
+[
+    {
+      "_id": "65125fef9bdeda4e620a51bf",
+      "index": 0,
+      "subject_fee": "$2,077.46",
+      "department_name": "Department of Mechanical Engineering (ME)",
+      "faculty": "faculty of ME",
+      "course_duration": "4 Year",
+      "picture": "https://img.freepik.com/free-photo/male-asian-caucasian-engineer-professional-having-discussion-standing-consult-machine-factory-two-expert-coworker-brainstorm-explaining-solves-process-cnc-operate-machine_609648-683.jpg?w=1380&t=st=1695703218~exp=1695703818~hmac=cdb7e81601e435c5f5b122b0e4b1a21c713cb2eff8b59908b9603916bf85cd05",
+      "about": "Aute consectetur consectetur quis duis. Occaecat enim proident excepteur ullamco do consequat adipisicing fugiat nostrud reprehenderit enim aliquip velit. Reprehenderit magna veniam incididunt nulla. Elit voluptate commodo est ipsum aliquip tempor cillum ad non consequat consectetur sunt consequat ipsum. Elit excepteur adipisicing commodo reprehenderit deserunt pariatur anim.\r\n"
+    },
+    {
+      "_id": "65125fef832d9119a26e3b37",
+      "index": 1,
+      "subject_fee": "$2,976.65",
+      "department_name": "Department of Computer Science (CS)",
+      "faculty": "faculty of CS",
+      "course_duration": "4 Year",
+      "picture": "https://img.freepik.com/free-photo/marketing-agency-employees-discussing-about-bankruptcy-while-analyzing-financial-data-laptop-screen-business-company-office-workers-sitting-desk-while-reviewing-startup-project-state_482257-40706.jpg?w=1380&t=st=1695702171~exp=1695702771~hmac=3134ebe7d6e0505424113f2975a363a9760d7192d0ae7480bc3b8c5d4b5c0675",
+      "about": "Laboris fugiat proident irure eiusmod irure. Cillum magna reprehenderit consequat excepteur incididunt deserunt dolore aliquip officia Lorem dolore mollit. Anim in ullamco est quis ex nulla et anim nostrud cillum fugiat commodo. Aliqua consequat mollit non laboris tempor consectetur nulla cupidatat qui. Commodo enim excepteur consectetur quis anim aliquip. Esse occaecat reprehenderit do laborum cupidatat eu fugiat et aute minim ut. Dolor anim ex do officia ut reprehenderit officia adipisicing deserunt id.\r\n"
+    },
+    {
+      "_id": "65125fef4ea50a3174ea323c",
+      "index": 2,
+      "subject_fee": "$2,963.74",
+      "department_name": "Department of Civil Engineering (CE)",
+      "faculty": "faculty of CE",
+      "course_duration": "4 Year",
+      "picture": "https://img.freepik.com/free-photo/building-construction-worker-site-with-architect_23-2149124289.jpg?w=1380&t=st=1695703557~exp=1695704157~hmac=1316876fbbd347eca58757089ab0a1b5e92a1f3df7e3802e45683df753e20d7c",
+      "about": "Commodo cillum aliqua nulla proident ipsum esse consequat proident eu. Ullamco do enim do deserunt nisi. Anim veniam aliquip enim sunt officia adipisicing mollit voluptate est incididunt nostrud elit do.\r\n"
+    },
+    {
+      "_id": "65125fef5448c10806e11eb5",
+      "index": 3,
+      "subject_fee": "$3,644.47",
+      "department_name": "Department of Electrical and Electronic Engineering (EEE)",
+      "faculty": "faculty of EEE",
+      "course_duration": "4 Year",
+      "picture": "https://img.freepik.com/free-photo/male-electrician-works-switchboard-with-electrical-connecting-cable_169016-15204.jpg?w=1380&t=st=1695703287~exp=1695703887~hmac=81a49a7179370ffd7143f0730230944e26e4caeb2d4bc0b9a73799119b4fc004",
+      "about": "Exercitation fugiat enim consequat laborum veniam dolor ullamco. Sit duis qui commodo consequat sunt aliquip consectetur esse irure cupidatat aliquip velit occaecat eu. Culpa non Lorem reprehenderit labore eu irure eu. Anim esse et amet cillum reprehenderit. Cupidatat cillum nostrud nostrud Lorem occaecat in sint dolor ut laborum incididunt. In ipsum occaecat officia fugiat ad occaecat irure fugiat exercitation pariatur esse mollit. Do do reprehenderit eiusmod labore incididunt Lorem dolor.\r\n"
+    },
+    {
+      "_id": "65125fef92c8d2db0df3d4f8",
+      "index": 4,
+      "subject_fee": "$1,543.49",
+      "department_name": "Department of Fashion Designers (FD)",
+      "faculty": "faculty of FD",
+      "course_duration": "4 Year",
+      "picture": "https://img.freepik.com/free-photo/fashion-designers-working-atelier-with-dress-form_23-2148846695.jpg?w=1380&t=st=1695703452~exp=1695704052~hmac=8f904b3bfe4eb68a5386b65e4b72e7bf4ff4a6849c5f7ad89febe0187cd80abb",
+      "about": "Veniam veniam fugiat incididunt nostrud pariatur incididunt magna ut. Irure nostrud enim in id amet labore velit dolore do. Esse eu laboris sint anim occaecat incididunt commodo dolor nulla in et. Proident eiusmod eu aliqua ea consectetur enim ipsum. Fugiat sint est officia eu enim non est incididunt eu dolor duis cillum incididunt. Nostrud ullamco reprehenderit aliquip eiusmod nisi veniam et aute irure deserunt.\r\n"
+    },
+    {
+      "_id": "65125fef92h8d2db0df5d4f5",
+      "index": 5,
+      "subject_fee": "$1,54",
+      "department_name": "Department of Biomedical Engineering (BME)",
+      "faculty": "faculty of BME",
+      "course_duration": "4 Year",
+      "picture": "https://img.freepik.com/free-photo/doctor-scientist-conducting-clinical-experiment-using-micropipette_482257-5638.jpg?w=1060&t=st=1697003735~exp=1697004335~hmac=b2879b77151a65b8c966eae647e8ac6e7653152d3d3ca2ca7e4c6c56ac25a649",
+      "about": "Veniam veniam fugiat incididunt nostrud pariatur incididunt magna ut. Irure nostrud enim in id amet labore velit dolore do. Esse eu laboris sint anim occaecat incididunt commodo dolor nulla in et. Proident eiusmod eu aliqua ea consectetur enim ipsum. Fugiat sint est officia eu enim non est incididunt eu dolor duis cillum incididunt. Nostrud ullamco reprehenderit aliquip eiusmod nisi veniam et aute irure deserunt.\r\n"
+    }
+  ]

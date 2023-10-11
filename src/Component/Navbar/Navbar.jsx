@@ -12,7 +12,8 @@ const Navbar = () => {
         <Link to='/contact'>CONTACT</Link>,
     ]
     return (
-        <div className='p-10 rounded-md bg-slate-300 text-xl' style={{'display':'flex', 'justifyContent': 'space-between',}}>
+        <div style={{position:'relative'}}>
+            <div className='p-10 rounded-md bg-slate-300 text-xl' style={{'display':'flex', 'justifyContent': 'space-between', position:'sticky'}}>
             <div>STUDY</div>
             <div className='items' style={{'display':'flex' }}>
                 {
@@ -22,6 +23,7 @@ const Navbar = () => {
                         )
                 }
             </div>
+        </div>
         </div>
     );
 };
